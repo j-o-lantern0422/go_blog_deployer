@@ -1,0 +1,14 @@
+{
+  "github":[
+    {
+      "account_name"      : "github_account_name",
+      "repo_name"         : "github_articles_repo_name",
+      "access_token"      : "github_access_token"
+    },
+    {
+      "account_name"      : "github_account_name",
+      "repo_name"         : "github_articles_repo_name",
+      "access_token"      : "github_access_token"
+    }
+  ]
+}

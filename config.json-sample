@@ -1,0 +1,18 @@
+{
+  "blogs":[
+    {
+      "blog"      : "hatena",
+      "repo_name" : "your_blog's_repo_on_github",
+      "hatena_id" : "your_hatena_id",
+      "blogID"    : "your_hatena_blog_uri",
+      "api_key"   : "your_hatenablog_apikey"
+    },
+    {
+      "blog"      : "hatena",
+      "repo_name" : "your_blog's_repo_on_github",
+      "hatena_id" : "your_hatena_id",
+      "blogID"    : "your_hatena_blog_uri",
+      "api_key"   : "your_hatenablog_apikey"
+    }
+  ]
+}
